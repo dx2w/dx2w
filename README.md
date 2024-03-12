@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dx2w
 - 👀 I’m interested in development via dotnet
 - 🌱 I’m currently learning swift
-- 📫 How to reach me @_rdc0 on discord
 - 😄 Pronouns: He/They
 
 <!---
